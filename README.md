@@ -7,29 +7,40 @@ The dataset contains detailed information such as ticket purchases, journey sche
 cancellations, and refund requests. The goal of this analysis is to help stakeholders (railway
 operators, management teams, and planners) make data-driven decisions to improve
 operational efficiency, enhance customer experience, and maximize revenue.
+
+
 2. OBJECTIVES
+   
 Analyse total revenue and ticket sales trends.
 Identify patterns in customer purchase behaviour (online vs station).
 Evaluate train performance (on-time, delayed, cancelled).
 Understand key causes of delays (e.g., signal failure, weather, staffing).
 Analyse refund requests and their drivers.
 Compare performance across routes, stations, and ticket types.
+
+
 3. DATA SOURCES
+   
 Dataset Source: https://mavenanalytics.io/data
 Timeline: 2023-2024
 Data Size: 30,000+ rows and 18 columns
-4. DATA CLEANING (PREPROCESSING)
+
+6. DATA CLEANING (PREPROCESSING)
+   
 The following preprocessing steps were performed to ensure data quality.
 Removed duplicate records using Transaction ID.
 Corrected and changed date formats.
 Standardized categorical values (Payment Method, Ticket Type).
 Handled missing values (e.g., In delay reasons: None to “Right Away”).
 Currency symbol “£” added in the Price column.
+
 TOOLS USED:
 Excel
 Power BI (Power Query)
 DAX
-5. DATA TRANSFORMATION
+
+8. DATA TRANSFORMATION
+   
 To enhance the quality, usability, and analytical depth of the dataset, several data
 transformation steps were performed using Power Query and DAX.
 DEVELOPED CALCULATED TABLE:
