@@ -1,4 +1,4 @@
-PROJECT OVERVIEW
+1.PROJECT OVERVIEW
 
 
 This project focuses on analysing a railway ticketing dataset to
@@ -25,7 +25,7 @@ Dataset Source: https://mavenanalytics.io/data
 Timeline: 2023-2024
 Data Size: 30,000+ rows and 18 columns
 
-6. DATA CLEANING (PREPROCESSING)
+4. DATA CLEANING (PREPROCESSING)
    
 The following preprocessing steps were performed to ensure data quality.
 Removed duplicate records using Transaction ID.
@@ -39,7 +39,7 @@ Excel
 Power BI (Power Query)
 DAX
 
-8. DATA TRANSFORMATION
+5. DATA TRANSFORMATION
    
 To enhance the quality, usability, and analytical depth of the dataset, several data
 transformation steps were performed using Power Query and DAX.
