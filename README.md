@@ -75,7 +75,7 @@ Build relationships between tables to create a structured and scalable analytica
 <img width="944" height="443" alt="Screenshot 2026-05-14 104254" src="https://github.com/user-attachments/assets/4d2e19e0-63c4-4bc7-9903-ad4b25328c68" />
 
 
-DATA ANALYSIS (EDA) & VISUALIZATION
+7.DATA ANALYSIS (EDA) & VISUALIZATION
 
 INSIGHTS BASED CHARTS:
 
@@ -192,4 +192,31 @@ users to explore patterns, compare performance, and gain clear insights in real 
 
    <img width="1782" height="804" alt="Screenshot 2026-05-12 124044" src="https://github.com/user-attachments/assets/cb44edfc-442e-4b98-b9ce-e6ed8d1722db" />
 
+
+9.KEY INSIGHTS MENTIONED IN SMART WAYS
+
+Improve on-time performance and increase revenue by addressing delays during peak
+departure times and strengthening high-demand routes such as York, London Euston,
+and Birmingham.
+Reduce delay percentage from 7.24% to below 5%, increase on-time performance
+from 86.82% to 90%, and grow monthly ticket revenue by at least 10% on
+top-performing routes.
+Implement targeted scheduling adjustments, enhance operational coordination, and
+promote Off-Peak and Anytime tickets to balance demand and reduce congestion.
+These improvements align directly with the dashboard insights showing delay issues,
+high route concentration, and uneven revenue distribution—improving both customer
+satisfaction and revenue growth.
+Achieve delay reduction and service improvements within 3 months, and revenue
+growth targets within the next financial quarter (3–4 months).
+
+10. CONCLUSION
+    
+The UK Railway Booking and Service dataset reveals strong booking and
+revenue concentration in major cities like York, London Euston, Birmingham, and
+Manchester. Advance tickets generate the highest revenue, indicating strong customer
+preference for lower-cost fare options. Overall service performance is good, with 86.82%
+on-time journeys, though delays still occur during specific departure times. Credit card
+payments dominate, reflecting a high adoption of digital payment methods. Improvements in
+delay management and targeted promotion of low-performing routes can enhance both
+customer experience and revenue.
 
