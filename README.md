@@ -36,13 +36,16 @@ Currency symbol “£” added in the Price column.
 
 TOOLS USED:
 Excel
+
 Power BI (Power Query)
+
 DAX
 
 5. DATA TRANSFORMATION
    
 To enhance the quality, usability, and analytical depth of the dataset, several data
 transformation steps were performed using Power Query and DAX.
+
 DEVELOPED CALCULATED TABLE:
 
 A dedicated Calendar Table was created by the “Date of journey” column to enable
