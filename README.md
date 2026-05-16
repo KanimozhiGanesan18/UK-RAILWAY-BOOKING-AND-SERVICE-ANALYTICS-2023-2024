@@ -68,5 +68,9 @@ MTD bookings
 
 These KPIs provided a high-level summary of operational efficiency and financial
 performance.
+
 6. DATA MODELLING
 Build relationships between tables to create a structured and scalable analytical data
+
+<img width="944" height="443" alt="Screenshot 2026-05-14 104254" src="https://github.com/user-attachments/assets/4d2e19e0-63c4-4bc7-9903-ad4b25328c68" />
+
